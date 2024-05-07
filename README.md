@@ -1,5 +1,5 @@
 # Project Name
-> Melanoma-CNN-Prediction.
+- Melanoma-CNN-Prediction.
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@
 	Vascular lesion
 
 ## Conclusions
-- This model can be used to predict diseases with 82% accuracy.
+- This model can be used to predict diseases with ~81.3% accuracy.
 
 
 ## Technologies Used
@@ -38,7 +38,7 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired Upgrad and IIIT-B.
+- This project is inspired by Upgrad and IIIT-B.
 
 
 ## Contact
