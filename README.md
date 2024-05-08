@@ -1,5 +1,5 @@
-# Project Name
-- Melanoma-CNN-Prediction.
+# Melanoma-CNN-Prediction
+- To build a CNN based model which can accurately detect melanoma. The multiclass classification model using a custom convolutional neural network in TensorFlow is created.
 
 
 ## Table of Contents
